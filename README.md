@@ -1,4 +1,9 @@
 ### Hi there 👋 I'm Skitts4Code !
+- 🌱 I’m currently learning Javascript
+
+
+## Languaages And Skills 
+
 
 <!--
 **skitts4code/skitts4code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
