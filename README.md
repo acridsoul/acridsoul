@@ -3,7 +3,7 @@
 
 
 ## Languaages And Skills 
--https://img.shields.io/badge/Twitter-blue?link=https%3A%2F%2Ftwitter.com%2FCode_Creqtive
+- https://img.shields.io/badge/Twitter-blue?link=https%3A%2F%2Ftwitter.com%2FCode_Creqtive
 
 
 
