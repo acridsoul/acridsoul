@@ -4,7 +4,7 @@
 
 
 ## Languaages And Skills 
-<p align="center">
+<p align="left">
   <a href=""><img alt="" src="https://img.shields.io/badge/Javascript-orange"/></a>
   <a href=""><img alt="" src="" /></a>
   <a href=""><img alt="" src="" /></a>
