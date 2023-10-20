@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Javascript
 
 
-## Languaages And Skills 
+## Languages And Skills 
 <p align="left">
   <a href=""><img alt="" src="https://img.shields.io/badge/Javascript-orange"/></a>
   <a href=""><img alt="" src="" /></a>
