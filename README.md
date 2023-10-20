@@ -5,7 +5,7 @@
 
 ## Languaages And Skills 
 <p align="center">
-  <a href="https://img.shields.io/badge/any_text-you_like-blue"><img alt="" src="https://img.shields.io/badge/any_text-you_like-blue" /></a>
+  <a href=""><img alt="" src="https://img.shields.io/badge/Javascript-orange"/></a>
   <a href=""><img alt="" src="" /></a>
   <a href=""><img alt="" src="" /></a>
 </p>
