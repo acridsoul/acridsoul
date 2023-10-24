@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Skitts4Code !
 - 🧑🏽 Pronouns: He/Him
-- 🌱 I’m currently learning Javascript
+- 🧑🏽‍💻 I'm High on Javascript
+- ☠️ Know a thing or two about Cybersecurity
 
 
 ## Languages And Skills 
