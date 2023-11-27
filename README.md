@@ -1,7 +1,9 @@
-### Hi there 👋 I'm Skitts4Code !
+## Hi there 👋 I'm Skitts4Code !
 - 🧑🏽 Pronouns: He/Him
-- 🧑🏽‍💻 I'm High on Javascript
-- ☠️ Know a thing or two about Cybersecurity
+- I'm a cybersecurity enthusiast with a passion for hacking and penetration testing.
+- I have a knack for web development and think React is stunning
+- I'm also fascinated by the world of Android apps and enjoy reverse engineering them
+- Currently building on my knowledge of JavaScript and Python.
 
 
 ## Languages And Skills 
