@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="200"/>
 </div>
 
-:hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 
 ## 👋 Welcome to the Skitts4Code Hub !
 - 🧑🏽 Pronouns: He/Him
