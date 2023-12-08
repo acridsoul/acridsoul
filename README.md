@@ -11,7 +11,7 @@
 - 📱 I'm also fascinated by the world of Android apps and enjoy reverse engineering them
 - 🌱 Currently building on my knowledge of JavaScript and Python.
 
-:hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools :
 
 <!--
 **skitts4code/skitts4code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
