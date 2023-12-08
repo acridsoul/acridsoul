@@ -1,3 +1,8 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="100"/>
+</div>
+
+
 ## Hi there 👋 I'm Skitts4Code !
 - 🧑🏽 Pronouns: He/Him
 - 🌐 I'm a cybersecurity enthusiast with a passion for hacking and penetration testing.
