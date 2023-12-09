@@ -10,6 +10,9 @@
 - 🌱 Currently building on my knowledge of JavaScript and Python.
   
 ### Languages and Tools :
+<div> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+</div>
 
 <!--
 **skitts4code/skitts4code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
