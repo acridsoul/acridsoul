@@ -1,8 +1,8 @@
 ## 👋 Welcome to the Skitts4Code Hub !
 - 🧑🏽 Pronouns: He/Him
 - 🌐 I'm a cybersecurity enthusiast with a passion for hacking and penetration testing.
-- 📱 I'm also fascinated by the world of Android apps and enjoy reverse engineering them
-- 🌱 Currently building on my knowledge of JavaScript and Python.
+- 📱 I'm also fascinated by the world of Android apps 
+- 🌱 Currently building on my knowledge of Python.
   
 ### Languages and Tools :
 <div> 
