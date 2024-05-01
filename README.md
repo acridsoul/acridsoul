@@ -14,7 +14,8 @@
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-   <img alt="Arch linux" src="https://img.shields.io/badge/Arch%20Linux-000000.svg?logo=archlinux&logoColor=blue"></a>
+  <img alt="Arch linux" src="https://img.shields.io/badge/Arch%20Linux-000000.svg?logo=archlinux&logoColor=blue"></a>
+  <img alt="Arch linux" src="https://img.shields.io/badge/Canva-032966.svg?logo=canva&logoColor=blue"></a>
   
 </p>
 <!--tml5
