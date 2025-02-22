@@ -42,8 +42,6 @@
 <a href="https://ubuntu.com" target="_blank"><img src="https://img.icons8.com/color/48/null/ubuntu--v1.png"/></a>
 <a href="https://archlinux.org" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-arch-linux-composed-of-nonfree-and-open-source-software-logo-color-tal-revivo.png"/></a>
 
-## 📊 Stats
-<img src="https://raw.githubusercontent.com/AnjanaMadu/AnjanaMadu/main/github-metrics.svg" alt="Metrics">
 
 ## 🔗 Connect with me
 
