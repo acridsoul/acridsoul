@@ -1,4 +1,4 @@
-## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="hand wave" width="30"/> I'm [Vcrid11](https://github.com/acridsoul) 
+## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="hand wave" width="30"/> I'm [Githinji](https://github.com/acridsoul) 
 
 
 - 🔭 I’m currently working on ¯\\\_(ツ)\_/¯
