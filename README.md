@@ -52,10 +52,7 @@
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/longkidkoolstar/longkidkoolstar/output/snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/longkidkoolstar/longkidkoolstar/output/snake.svg" />
-</picture>
+
 
 
 ###
