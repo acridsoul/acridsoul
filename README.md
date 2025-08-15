@@ -1,7 +1,7 @@
 <h3 align="center"> Hi there 👋</h3>
 
 <p align="center">
-I'm Austin, a self-motivated tech enthusiast and full stack web developer.
+I'm Austin, a security researcher and full stack web developer.
 </p>
 
 <h4 align="center">
