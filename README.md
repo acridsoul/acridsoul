@@ -1,7 +1,7 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Stranger</h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey Stranger!</h2>
 <p>Welcome to my page! </br> I'm Austin, Software Developer and Security Researcher from <img src="https://cdn-icons-png.flaticon.com/512/14009/14009694.png" width="13"/> <b>Nairobi, Kenya</b> </p>
 
-<h3>My Tech Stack</h3>
+<h3>Tech Stack & Tools</h3>
 <p>
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
