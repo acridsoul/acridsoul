@@ -1,69 +1,17 @@
-# Austin Githinji  
-**IT Undergraduate | Full-Stack Developer (React / Next.js / TanStack) | Cybersecurity-Focused**
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Stranger</h2>
+<p>Welcome to my page! </br> I'm Austin, Software Developer and Security Researcher from <img src="https://cdn-icons-png.flaticon.com/512/14009/14009694.png" width="13"/> <b>Nairobi, Kenya</b> </p>
 
----
+<h3>My Tech Stack</h3>
+<p>
+<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+<img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
+<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+<img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=Javascript&logoColor=white" />
+<img alt="archlinux" src="https://img.shields.io/badge/-Archlinux-1793d1?style=flat-square&logo=archlinux&logoColor=white" />
+<img alt="kalilinux" src="https://img.shields.io/badge/-Kali-557c94?style=flat-square&logo=archlinux&logoColor=white" />
+</p>
 
-## About Me
-
-I am an IT undergraduate focused on building modern, secure web applications.
-
-My current focus is mastering the TanStack ecosystem (Query, Router, Table) and strengthening my understanding of React, Next.js, and TypeScript-driven frontend architecture. I am particularly interested in how data flows through applications — caching, synchronization, and state management — and how to design systems that are both scalable and secure.
-
-Alongside web development, I actively study cybersecurity and ethical hacking, with a strong interest in secure coding practices, authentication systems, and application-layer security.
-
-I aim to understand tools deeply — not just how to use them, but why they work.
-
----
-
-## Current Technical Focus
-
-### Frontend
-- React
-- Next.js
-- TanStack Query
-- TypeScript (actively improving)
-
-### Backend
-- Node.js
-- API design fundamentals
-- Authentication flows
-
-### Security
-- Secure coding practices
-- Web vulnerabilities (OWASP concepts)
-- Ethical hacking fundamentals
-
----
-
-## What I’m Currently Working On
-
-- Deepening my understanding of TanStack Query and server-state management
-- Improving full-stack architecture with Next.js
-- Building projects that implement secure authentication flows
-- Structuring applications with scalability and maintainability in mind
-
----
-
-## 2026 Goals
-
-- Build multiple production-ready full-stack applications
-- Master async data handling patterns in React
-- Develop stronger knowledge of web application security
-- Secure a software engineering or cybersecurity internship
-
----
-
-## What I Bring to a Team
-
-- Strong fundamentals in modern web development
-- Security-first mindset when building applications
-- Willingness to dive deep into tools and understand internal mechanics
-- Continuous learner focused on long-term technical growth
-
----
-
-## Contact
-
-- Email: devaustingithinji@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/austin-githinji-3a3470265/ 
-- Portfolio: https://www.austingithinji.dev
+<h3>Where to find me</h3>
+<p><a href="https://github.com/acridsoul" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/dumpyoursiqwel" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/austin-githinji-3a3470265/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
