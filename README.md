@@ -9,7 +9,7 @@
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=Javascript&logoColor=white" />
 <img alt="archlinux" src="https://img.shields.io/badge/-Archlinux-1793d1?style=flat-square&logo=archlinux&logoColor=white" />
-<img alt="kalilinux" src="https://img.shields.io/badge/-Kali-557c94?style=flat-square&logo=archlinux&logoColor=white" />
+<img alt="kalilinux" src="https://img.shields.io/badge/-Kali-557c94?style=flat-square&logo=kalilinux&logoColor=white" />
 </p>
 
 <h3>Where to find me</h3>
