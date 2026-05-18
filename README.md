@@ -1,12 +1,10 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey Stranger!</h2>
-<p>Welcome to my page! </br> I'm Austin, Software Developer and Security Researcher from <img src="https://cdn-icons-png.flaticon.com/512/14009/14009694.png" width="13"/> <b>Nairobi, Kenya</b> </p>
+<p>Welcome to my page! </br> I'm Austin, Currently Exploring the world of CyberSecurity </p>
+<p>I live in <img src="https://cdn-icons-png.flaticon.com/512/14009/14009694.png" width="13"/> <b>Nairobi, Kenya</b> </p>
 
 <h3>Tech Stack & Tools</h3>
 <p>
 <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=flat-square&logo=python&logoColor=white" />
-<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=Javascript&logoColor=white" />
