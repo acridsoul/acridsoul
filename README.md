@@ -2,6 +2,10 @@
 <p>Welcome to my page! </br> I'm Austin, Currently Exploring the world of CyberSecurity </p>
 <p>I live in <img src="https://cdn-icons-png.flaticon.com/512/14009/14009694.png" width="13"/> <b>Nairobi, Kenya</b> </p>
 
+<p align="center">
+  <img alt="THM Streak" src="assets/thm-streak.svg" />
+</p>
+
 <h3>Tech Stack & Tools</h3>
 <p>
 <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=flat-square&logo=python&logoColor=white" />
