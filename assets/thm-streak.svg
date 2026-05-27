@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="248" height="30">
+  <linearGradient id="s" x2="0" y2="100%">
+    <stop offset="0" stop-color="#fff" stop-opacity=".2"/>
+    <stop offset="1" stop-opacity=".1"/>
+  </linearGradient>
+  <mask id="m">
+    <rect width="248" height="30" rx="4" fill="#fff"/>
+  </mask>
+  <g mask="url(#m)">
+    <rect width="140" height="30" fill="#212C42"/>
+    <rect x="140" width="108" height="30" fill="#D93838"/>
+    <rect width="248" height="30" fill="url(#s)"/>
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,sans-serif" font-size="12" font-weight="bold">
+    <text x="70" y="20">THM Streak</text>
+    <text x="194" y="20">19 days</text>
+  </g>
+</svg>

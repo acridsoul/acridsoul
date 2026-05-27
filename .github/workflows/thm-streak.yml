@@ -1,0 +1,74 @@
+name: Update THM Streak Badge
+
+on:
+  schedule:
+    - cron: '17 6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-badge:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch streak and generate badge
+        run: |
+          set -euo pipefail
+
+          DATA=$(curl -sS --max-time 10 \
+            "https://tryhackme.com/api/v2/public-profile?username=dumpyourSQL")
+
+          STREAK=$(echo "$DATA" | jq -r '.data.streak')
+
+          if [ -z "$STREAK" ] || [ "$STREAK" = "null" ]; then
+            echo "Failed to fetch streak from API"
+            exit 1
+          fi
+
+          echo "Streak: $STREAK days"
+
+          # Calculate right-side width: base 100 + 20 per extra digit over 1
+          NUM_LEN=${#STREAK}
+          RIGHT_W=$((120 + (NUM_LEN - 1) * 16))
+          TOTAL_W=$((140 + RIGHT_W))
+          LEFT_CENTER=$((140 / 2))
+          RIGHT_CENTER=$((140 + RIGHT_W / 2))
+
+          cat > assets/thm-streak.svg << SVGEOF
+          <svg xmlns="http://www.w3.org/2000/svg" width="${TOTAL_W}" height="30">
+            <linearGradient id="s" x2="0" y2="100%">
+              <stop offset="0" stop-color="#fff" stop-opacity=".2"/>
+              <stop offset="1" stop-opacity=".1"/>
+            </linearGradient>
+            <mask id="m">
+              <rect width="${TOTAL_W}" height="30" rx="4" fill="#fff"/>
+            </mask>
+            <g mask="url(#m)">
+              <rect width="140" height="30" fill="#212C42"/>
+              <rect x="140" width="${RIGHT_W}" height="30" fill="#D93838"/>
+              <rect width="${TOTAL_W}" height="30" fill="url(#s)"/>
+            </g>
+            <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,sans-serif" font-size="12" font-weight="bold">
+              <text x="${LEFT_CENTER}" y="20">THM Streak</text>
+              <text x="${RIGHT_CENTER}" y="20">${STREAK} days</text>
+            </g>
+          </svg>
+          SVGEOF
+
+          echo "Badge generated: ${STREAK} days"
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "thm-streak-bot"
+          git config user.email "thm-streak-bot@users.noreply.github.com"
+          git add assets/thm-streak.svg
+          if git diff --cached --exit-code >/dev/null 2>&1; then
+            echo "No change, skipping commit."
+          else
+            git commit -m "Update THM streak badge"
+            git push
+            echo "Badge updated and pushed."
+          fi
